@@ -780,6 +780,7 @@ markers:
   - {type: indent, offset: 2929, content: 　　　, id: KR4e0139_krp_022-bkkind15}
   - {type: substitution, offset: 2932, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 2933, content: (, id: KR4e0139_krp_022-bkkpn1}
+  - {type: voice, offset: 2933, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 2936, content: /, id: KR4e0139_krp_022-bkkpn2}
   - {type: punctuation, offset: 2938, content: ), id: KR4e0139_krp_022-bkkpn3}
   - {type: 'kr:newline', offset: 2938, content: '
@@ -1299,6 +1300,7 @@ markers:
   - {type: line-break, offset: 4949, content: '', id: KR4e0139_WYG_022-17a02}
   - {type: indent, offset: 4949, content: 　　　, id: KR4e0139_krp_022-bkkind21}
   - {type: punctuation, offset: 4952, content: (, id: KR4e0139_krp_022-bkkpn4}
+  - {type: voice, offset: 4952, length: 16, name: note, id: n2}
   - {type: punctuation, offset: 4960, content: /, id: KR4e0139_krp_022-bkkpn5}
   - {type: punctuation, offset: 4968, content: ), id: KR4e0139_krp_022-bkkpn6}
   - {type: 'kr:newline', offset: 4968, content: '
@@ -1539,6 +1541,7 @@ markers:
   - {type: line-break, offset: 5889, content: '', id: KR4e0139_WYG_022-20a03}
   - {type: indent, offset: 5889, content: 　　　, id: KR4e0139_krp_022-bkkind25}
   - {type: punctuation, offset: 5892, content: (, id: KR4e0139_krp_022-bkkpn7}
+  - {type: voice, offset: 5892, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 5895, content: /, id: KR4e0139_krp_022-bkkpn8}
   - {type: punctuation, offset: 5898, content: ), id: KR4e0139_krp_022-bkkpn9}
   - {type: 'kr:newline', offset: 5898, content: '
@@ -1857,4 +1860,4 @@ markers:
 
       ', id: KR4e0139_krp_022-bkkkrnewl413}
   back: []
-hash: sha256:ad43061e7861123a0de6dde76b454a0016957d00b0afbb81f4ae64e33b51c4cf
+hash: sha256:0d0faba438094387301f52acf948316c1888bc26250454f3aad74fa64bce5c68
